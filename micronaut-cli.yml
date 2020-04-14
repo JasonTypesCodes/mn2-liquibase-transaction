@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: mn2.liquibase.transaction
+---
+testFramework: junit
+sourceLanguage: java
